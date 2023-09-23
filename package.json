@@ -1,0 +1,11 @@
+{
+  "name": "npm_operacionesmatematicas",
+  "version": "1.0.0",
+  "description": "Paquete de NPM - Matematicas Sencillo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AlessDeveloper01",
+  "license": "ISC"
+}
